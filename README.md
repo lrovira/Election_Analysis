@@ -11,7 +11,6 @@ A Colorado Board Elections employee has give you the following tasks to complete
 
 ## Resources
 -Data Source: election_results.csv
--Software: 234124 
 
 -Software: Python 3.6.1, Visual Studio Code, 1.38.1.
 
@@ -22,7 +21,7 @@ The analysis of the election show that:
    - Candidate 1
    - Candidate 2
    - Candidate 3
-
+-The candidate results were:
 -The candidate results were:
 
 ## Challenge Overview
