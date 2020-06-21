@@ -20,7 +20,7 @@ The analysis of the election show that:
    - Candidate 1
    - Candidate 2
    - Candidate 3
--The candidate results were:
+-THe candidate results were:
 
 ## Challenge Overview
 
